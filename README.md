@@ -21,8 +21,8 @@ You can use any frameworks, libraries or preprocessors you wish in order to comp
 
 We are not looking at how much you can do in a short time frame or expecting you to complete the entire page but we will be looking at the following criteria:
 
- - How you approach the task
- - How you structure your code
+ - How you approach the task.
+ - How you structure your code.
  - How responsive your code is (does it work across Mobile, Table and Desktop).
 
 ## Deliverables
