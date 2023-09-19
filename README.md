@@ -24,6 +24,7 @@ We are not looking at how much you can do in a short time frame or expecting you
  - How you approach the task.
  - How you structure your code.
  - How responsive your code is (does it work across Mobile, Table and Desktop).
+ - How accessible your code is (does it work with a screen reader, is it keyboard navigable etc).
 
 ## Deliverables
 
