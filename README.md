@@ -2,11 +2,11 @@
 
 ## Introduction
 
-You should aim to take no longer than 2 - 3 hours on this test. Don't worry about not being able to complete it, just send over what you have. We are just looking at how you approach a few different components based on the provided designs.
+You should aim to take no longer than 2 - 3 hours on this test. Don't worry about not being able to complete it, just send over what you have. We are just looking at how you approach a few different components based on the provided designs, not your ability to quickly throw together a webpage.
 
 ## Brief
 
-We are nearing completion of a website for a company called "Jigsaw" who are an Insurance Specialist based in Harrogate. The design attached with this tech test was designed in house by Creode and is for a WordPress site we built recently. The aim of this tech test is to mockup as much of the design as you can within the allotted time.
+We built a new website for a company called "Jigsaw" who are an Insurance Specialist based in Harrogate. The design attached to this test is a snippet of components created in house by Creode and is for a WordPress site. The aim of this tech test is follow the provided design as closely as you can to build the webpage.
 
 Within the folder of this project we have provided the following:
 
@@ -19,9 +19,15 @@ You are free to remove the normalise CSS file if you'd prefer not to use it.
 
 You can use any frameworks, libraries or preprocessors you wish in order to complete this task.
 
+We are not looking at how much you can do in a short time frame or expecting you to complete the entire page but we will be looking at the following criteria:
+
+ - How you approach the task
+ - How you structure your code
+ - How responsive your code is (does it work across Mobile, Table and Desktop).
+
 ## Deliverables
 
- - A zipped up folder containing the work you have done for this task
+ - A zipped up folder containing the work you have done for this task (or a link to a git repository if you prefer).
  - A brief write-up of any key decisions you made (and why!) and details of any bits you didn't manage to add within the 2 - 3 hours time but you'd like to.
 
 All the deliverables should be emailed to guy.weston@creode.co.uk once you have finished.
